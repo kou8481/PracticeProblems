@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "RecursionFunctions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RecursionFunctions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RecursionFunctions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecursionFunctions/1.0.0": {
+      "type": "project",
+      "path": "../RecursionFunctions/RecursionFunctions.csproj",
+      "msbuildProject": "../RecursionFunctions/RecursionFunctions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "RecursionFunctions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kaustab Samanta\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionTestApp\\RecursionTestApp.csproj",
+      "projectName": "RecursionTestApp",
+      "projectPath": "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionTestApp\\RecursionTestApp.csproj",
+      "packagesPath": "C:\\Users\\Kaustab Samanta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionTestApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kaustab Samanta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionFunctions\\RecursionFunctions.csproj": {
+              "projectPath": "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionFunctions\\RecursionFunctions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

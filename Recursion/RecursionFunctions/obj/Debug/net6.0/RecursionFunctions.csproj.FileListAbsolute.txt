@@ -1,0 +1,12 @@
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\bin\Debug\net6.0\RecursionFunctions.deps.json
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\bin\Debug\net6.0\RecursionFunctions.dll
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\bin\Debug\net6.0\RecursionFunctions.pdb
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\RecursionFunctions.csproj.AssemblyReference.cache
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\RecursionFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\RecursionFunctions.AssemblyInfoInputs.cache
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\RecursionFunctions.AssemblyInfo.cs
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\RecursionFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\RecursionFunctions.dll
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\refint\RecursionFunctions.dll
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\RecursionFunctions.pdb
+C:\Users\Kaustab Samanta\source\repos\Recursion\RecursionFunctions\obj\Debug\net6.0\ref\RecursionFunctions.dll
