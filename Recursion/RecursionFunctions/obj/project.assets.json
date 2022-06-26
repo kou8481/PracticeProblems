@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionFunctions\\RecursionFunctions.csproj",
+      "projectUniqueName": "C:\\Users\\Kaustab Samanta\\Source\\Repos\\PracticeProblems\\Recursion\\RecursionFunctions\\RecursionFunctions.csproj",
       "projectName": "RecursionFunctions",
-      "projectPath": "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionFunctions\\RecursionFunctions.csproj",
+      "projectPath": "C:\\Users\\Kaustab Samanta\\Source\\Repos\\PracticeProblems\\Recursion\\RecursionFunctions\\RecursionFunctions.csproj",
       "packagesPath": "C:\\Users\\Kaustab Samanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaustab Samanta\\source\\repos\\Recursion\\RecursionFunctions\\obj\\",
+      "outputPath": "C:\\Users\\Kaustab Samanta\\Source\\Repos\\PracticeProblems\\Recursion\\RecursionFunctions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaustab Samanta\\AppData\\Roaming\\NuGet\\NuGet.Config",
